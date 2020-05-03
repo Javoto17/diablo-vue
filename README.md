@@ -1,4 +1,4 @@
-# overwatch-vue
+# diablo-vue
 
 ## Project setup
 ```
